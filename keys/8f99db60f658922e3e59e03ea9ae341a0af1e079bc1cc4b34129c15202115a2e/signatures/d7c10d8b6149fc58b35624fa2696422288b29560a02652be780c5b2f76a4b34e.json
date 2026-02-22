@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "artifact": {
+    "name": "LastParadox",
+    "version": "",
+    "sha256": "d7c10d8b6149fc58b35624fa2696422288b29560a02652be780c5b2f76a4b34e",
+    "sha512": "8db1965fcd497fe65bc18e7f0b2191d80780304b3faca0f27af216a7e661fa3c87e0ad886a70ae252ba1bf427e81397ffddeeb897b7b5c9a857b6ea2e7c3e8ad",
+    "build_timestamp": "2026-02-22T08:41:35Z",
+    "build_env": {
+      "os": "windows",
+      "arch": "amd64",
+      "compiler_version": "go1.25.1"
+    }
+  },
+  "identity": {
+    "display_name": "Unknown",
+    "pubkey_ed25519": "2V6FUFtWT7ozpAYUbdbr1eYdw-5uMkpfwNsNpfkaWrM",
+    "pubkey_fingerprint": "8f99db60f658922e3e59e03ea9ae341a0af1e079bc1cc4b34129c15202115a2e",
+    "social_proofs": null
+  },
+  "signature": {
+    "algorithm": "Ed25519",
+    "signed_payload": "ZDdjMTBkOGI2MTQ5ZmM1OGIzNTYyNGZhMjY5NjQyMjI4OGIyOTU2MGEwMjY1MmJlNzgwYzViMmY3NmE0YjM0ZXw4ZGIxOTY1ZmNkNDk3ZmU2NWJjMThlN2YwYjIxOTFkODA3ODAzMDRiM2ZhY2EwZjI3YWYyMTZhN2U2NjFmYTNjODdlMGFkODg2YTcwYWUyNTJiYTFiZjQyN2U4MTM5N2ZmZGRlZWI4OTdiN2I1YzlhODU3YjZlYTJlN2MzZThhZHwyMDI2LTAyLTIyVDA4OjQxOjM1Wg",
+    "value": "JB2qRJr3Q7ptrDTUvWdyBkM_CaPocPsQW-v9NZB_DASdIvgFO8wHnqojjrb4atayoUtAQbSVzcJRRQqMZG9nBA",
+    "timestamp": "2026-02-22T08:41:35Z"
+  },
+  "attestations": [],
+  "trust_chain": {
+    "threshold": 2
+  }
+}
